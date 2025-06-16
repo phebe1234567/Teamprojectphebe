@@ -1,0 +1,4 @@
+Initial proposed features:
+- User authentication
+- Data storage
+
