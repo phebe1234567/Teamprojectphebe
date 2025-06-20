@@ -1,0 +1,18 @@
+.body{
+    font-family: sans-serif;
+    line-height:0 ; 
+    margin: 0;
+    padding: 0;
+    background-color: purple;
+}
+.container{
+max-width: 960px;
+margin: 0 auto;
+padding: 20px;
+}
+.section id{
+padding: 30px;
+margin-bottom: 15px;
+background-color: white;
+
+}
